@@ -5,7 +5,7 @@ This program will scan github repos for sensitive information and create a repor
 
 ## Usage
 1.  Install gittyleaks - *sudo pip install gittyleaks*
-2.  Clone repo - *git clone [https://github.com/SETS-Interviews/anth-11232018.git] (https://github.com/SETS-Interviews/anth-11232018.git)*
+2.  Clone repo - *git clone https://github.com/SETS-Interviews/anth-11232018.git*
 3.  Run the run.sh script - *./run.sh*
 4.  Enter a github repository when asked - *e.g., github/backstop*
 5.  Enter where to save the output file when asked - *e.g., output.log*
